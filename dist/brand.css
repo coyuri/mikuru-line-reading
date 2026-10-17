@@ -4,3 +4,6 @@
 
 .hero.hero-illustrated{display:block;min-height:0;padding:0;background:#142d40;overflow:hidden}.hero-illustrated .hero-header-image{display:block;width:100%;height:auto;max-width:1440px;margin:0 auto}.hero-illustrated .hero-copy{max-width:1080px;margin:0 auto;padding:48px 40px 52px}.hero-illustrated h1{font-size:clamp(30px,3.2vw,44px);line-height:1.6;margin:15px 0 20px}.hero-illustrated h1 br{display:none}.hero-illustrated .hero-description{margin-bottom:25px}.hero-illustrated .eyebrow{margin-bottom:14px}@media(max-width:650px){.hero-illustrated .hero-copy{padding:30px 24px 36px}.hero-illustrated h1{font-size:27px}.hero-illustrated h1 br:first-child{display:block}.hero-illustrated .hero-description{font-size:12px}.hero-illustrated .button{min-width:0;width:100%}}
 @media(max-width:650px){.hero-illustrated h1 br{display:block}}
+
+/* Requested mediumblue background for the navy sections. */
+.hero.hero-illustrated,.bridge,.final-cta{background:#0000cd;background-image:none}.hero.hero-illustrated:after{display:none}
